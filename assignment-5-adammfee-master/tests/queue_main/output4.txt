@@ -1,0 +1,67 @@
+*----------------------------------------*
+Choose an option:
+1. Enqueue
+2. Dequeue
+3. Peek
+4. Resize
+5. Quit
+*----------------------------------------*
+Enter the value to add into queue:
+*----------------------------------------*
+Choose an option:
+1. Enqueue
+2. Dequeue
+3. Peek
+4. Resize
+5. Quit
+*----------------------------------------*
+Enter the value to add into queue:
+*----------------------------------------*
+Choose an option:
+1. Enqueue
+2. Dequeue
+3. Peek
+4. Resize
+5. Quit
+*----------------------------------------*
+Enter the value to add into queue:
+*----------------------------------------*
+Choose an option:
+1. Enqueue
+2. Dequeue
+3. Peek
+4. Resize
+5. Quit
+*----------------------------------------*
+Enter the value to add into queue:
+*----------------------------------------*
+Choose an option:
+1. Enqueue
+2. Dequeue
+3. Peek
+4. Resize
+5. Quit
+*----------------------------------------*
+*----------------------------------------*
+Choose an option:
+1. Enqueue
+2. Dequeue
+3. Peek
+4. Resize
+5. Quit
+*----------------------------------------*
+Invalid choice. Please enter a number between 1 and 5.
+*----------------------------------------*
+Choose an option:
+1. Enqueue
+2. Dequeue
+3. Peek
+4. Resize
+5. Quit
+*----------------------------------------*
+Quitting...
+Contents of the queue:
+Receive
+Stall
+Run
+Goodbye!
