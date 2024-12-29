@@ -1,0 +1,15 @@
+Array doubled: 3
+Distinct non-common words: 640
+Total non-common words: 1063
+Probability of next 10 words from rank 0
+---------------------------------------
+0.01505 - is
+0.01223 - prim
+0.01035 - no
+0.00941 - district
+0.00847 - has
+0.00847 - then
+0.00847 - was
+0.00753 - because
+0.00753 - time
+0.00659 - dont

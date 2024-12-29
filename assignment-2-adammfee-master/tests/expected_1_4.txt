@@ -1,0 +1,15 @@
+Array doubled: 8
+Distinct non-common words: 13744
+Total non-common words: 67327
+Probability of next 10 words from rank 5
+---------------------------------------
+0.00515 - were
+0.00480 - some
+0.00460 - now
+0.00452 - no
+0.00449 - then
+0.00443 - upon
+0.00437 - like
+0.00437 - when
+0.00428 - ye
+0.00419 - are

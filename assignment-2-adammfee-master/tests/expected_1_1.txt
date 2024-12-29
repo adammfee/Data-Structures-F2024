@@ -1,0 +1,15 @@
+Array doubled: 2
+Distinct non-common words: 308
+Total non-common words: 403
+Probability of next 10 words from rank 25
+---------------------------------------
+0.00496 - every
+0.00496 - first
+0.00496 - glory
+0.00496 - going
+0.00496 - grow
+0.00496 - healthy
+0.00496 - here
+0.00496 - like
+0.00496 - meaning
+0.00496 - miles
